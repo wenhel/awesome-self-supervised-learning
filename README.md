@@ -362,6 +362,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
 
 - SelFlow: Self-Supervised Learning of Optical Flow.
   [[pdf]](https://arxiv.org/abs/1904.03597)
+  [[code]](https://github.com/laura-wang/video_repres_mas)
   - Jiangliu Wang; Jianbo Jiao; Linchao Bao; Shengfeng He; Yunhui Liu; Wei Liu. CVPR 2019
  
 
